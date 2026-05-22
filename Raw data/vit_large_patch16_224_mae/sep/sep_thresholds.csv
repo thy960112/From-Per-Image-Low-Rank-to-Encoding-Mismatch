@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+ViT-Large (MAE),1024,50,512,0.500000
+ViT-Large (MAE),1024,60,611,0.596680
+ViT-Large (MAE),1024,70,714,0.697266
+ViT-Large (MAE),1024,80,817,0.797852
+ViT-Large (MAE),1024,90,922,0.900391

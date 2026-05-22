@@ -1,0 +1,24 @@
+\begin{tabular}{l l r r r r r r r r r}
+\toprule
+Train Method & Model & Dims & \multicolumn{4}{c}{Per-image SVD (99th pct)} & \multicolumn{4}{c}{Dataset PCA (shared, 99th pct)} \\
+\cmidrule(lr){4-7}\cmidrule(lr){8-11}
+ & & & 80\% & 90\% & 95\% & 99\% & 80\% & 90\% & 95\% & 99\% \\
+\midrule
+SL & ViT-Tiny & 192 & 1 & 2 & 7 & 52 & 1 & 17 & 71 & 154 \\
+SL & CaiT-S24 & 384 & 14 & 34 & 61 & 121 & 167 & 247 & 302 & 359 \\
+SL & DeiT-Small & 384 & 30 & 59 & 89 & 146 & 205 & 278 & 324 & 369 \\
+SL & Swin-Small & 768 & 3 & 7 & 15 & 33 & 129 & 336 & 495 & 691 \\
+SL & ViT-Large & 1024 & 5 & 16 & 39 & 115 & 255 & 498 & 694 & 933 \\
+\midrule
+SSL & ViT-Huge (MAE) & 1280 & 1 & 15 & 58 & 164 & 1 & 83 & 371 & 977 \\
+SSL & ViT-Base (DINOv2) & 768 & 19 & 39 & 67 & 146 & 384 & 519 & 606 & 704 \\
+SSL & ViT-Large (DINOv2) & 1024 & 30 & 58 & 93 & 173 & 525 & 696 & 813 & 940 \\
+SSL & ViT-Base (DINO) & 768 & 39 & 75 & 109 & 165 & 382 & 529 & 624 & 731 \\
+SSL & ViT-Small (DINO) & 384 & 41 & 72 & 101 & 152 & 232 & 297 & 336 & 373 \\
+SSL & ViT-Base (MAE) & 768 & 1 & 7 & 34 & 113 & 1 & 58 & 235 & 585 \\
+SSL & ViT-Large (MAE) & 1024 & 1 & 9 & 38 & 120 & 1 & 49 & 268 & 765 \\
+\midrule
+MM & ViT-Base (CLIP, OpenAI) & 768 & 6 & 27 & 60 & 135 & 129 & 340 & 502 & 704 \\
+MM & ViT-Large (CLIP, OpenAI) & 1024 & 15 & 46 & 89 & 181 & 230 & 506 & 713 & 945 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+"ViT-Base (CLIP, OpenAI)",768,50,384,0.500000
+"ViT-Base (CLIP, OpenAI)",768,60,458,0.596354
+"ViT-Base (CLIP, OpenAI)",768,70,536,0.697917
+"ViT-Base (CLIP, OpenAI)",768,80,618,0.804688
+"ViT-Base (CLIP, OpenAI)",768,90,692,0.901042

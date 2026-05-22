@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+ViT-Base (MAE),768,50,379,0.493490
+ViT-Base (MAE),768,60,452,0.588542
+ViT-Base (MAE),768,70,526,0.684896
+ViT-Base (MAE),768,80,606,0.789062
+ViT-Base (MAE),768,90,688,0.895833

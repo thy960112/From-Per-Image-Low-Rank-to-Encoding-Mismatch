@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+ViT-Small (DINO),384,50,183,0.476562
+ViT-Small (DINO),384,60,224,0.583333
+ViT-Small (DINO),384,70,265,0.690104
+ViT-Small (DINO),384,80,304,0.791667
+ViT-Small (DINO),384,90,344,0.895833

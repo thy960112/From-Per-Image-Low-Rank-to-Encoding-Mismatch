@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+ViT-Large (DINOv2),1024,50,509,0.497070
+ViT-Large (DINOv2),1024,60,614,0.599609
+ViT-Large (DINOv2),1024,70,716,0.699219
+ViT-Large (DINOv2),1024,80,818,0.798828
+ViT-Large (DINOv2),1024,90,921,0.899414

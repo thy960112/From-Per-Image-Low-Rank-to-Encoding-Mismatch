@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+CaiT-S24,384,50,192,0.500000
+CaiT-S24,384,60,230,0.598958
+CaiT-S24,384,70,270,0.703125
+CaiT-S24,384,80,309,0.804688
+CaiT-S24,384,90,346,0.901042

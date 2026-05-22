@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+ViT-Base (DINOv2),768,50,384,0.500000
+ViT-Base (DINOv2),768,60,461,0.600260
+ViT-Base (DINOv2),768,70,539,0.701823
+ViT-Base (DINOv2),768,80,616,0.802083
+ViT-Base (DINOv2),768,90,691,0.899740

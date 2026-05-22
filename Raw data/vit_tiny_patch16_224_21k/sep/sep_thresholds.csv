@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+ViT-Tiny,192,50,97,0.505208
+ViT-Tiny,192,60,116,0.604167
+ViT-Tiny,192,70,135,0.703125
+ViT-Tiny,192,80,153,0.796875
+ViT-Tiny,192,90,173,0.901042

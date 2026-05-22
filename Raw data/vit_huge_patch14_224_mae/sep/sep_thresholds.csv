@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+ViT-Huge,1280,50,632,0.493750
+ViT-Huge,1280,60,759,0.592969
+ViT-Huge,1280,70,889,0.694531
+ViT-Huge,1280,80,1024,0.800000
+ViT-Huge,1280,90,1153,0.900781

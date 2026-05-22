@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+DeiT-Small,384,50,193,0.502604
+DeiT-Small,384,60,231,0.601562
+DeiT-Small,384,70,269,0.700521
+DeiT-Small,384,80,306,0.796875
+DeiT-Small,384,90,346,0.901042

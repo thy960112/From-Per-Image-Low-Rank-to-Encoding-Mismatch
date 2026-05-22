@@ -1,0 +1,6 @@
+Model,Model_Dimension,Threshold (%),Dimension (d),Normalized (d/D)
+Swin-Small,768,50,385,0.501302
+Swin-Small,768,60,460,0.598958
+Swin-Small,768,70,538,0.700521
+Swin-Small,768,80,614,0.799479
+Swin-Small,768,90,692,0.901042
