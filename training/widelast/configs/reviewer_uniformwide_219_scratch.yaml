@@ -1,0 +1,13 @@
+# Reviewer control: spread the added WideLast capacity uniformly across all
+# DeiT-Tiny layers instead of concentrating it in the last transformer block.
+
+model: deit_tiny_patch16_224
+output_dir: ../Output/Reviewer-UniformWide219-Scratch
+data-path: /data/datasets/ILSVRC
+use-uniform-wide: true
+uniform-embed-dim: 219
+distillation-type: none
+drop-path: 0
+batch-size: 512
+num_workers: 32
+epochs: 300

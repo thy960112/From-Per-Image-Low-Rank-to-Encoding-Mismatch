@@ -1,0 +1,18 @@
+# Reviewer control with SpectralKD distillation from CaiT-S24.
+
+model: deit_tiny_patch16_224
+teacher-model: cait_s24_224
+output_dir: ../Output/Reviewer-UniformWide219-SpectralKD
+data-path: /data/datasets/ILSVRC
+use-uniform-wide: true
+uniform-embed-dim: 219
+distillation-type: soft
+distillation-alpha: 0.0
+distillation-beta: 1.0
+w-fft: 0.2
+s-id: [11]
+t-id: [23]
+drop-path: 0
+batch-size: 512
+num_workers: 32
+epochs: 300
