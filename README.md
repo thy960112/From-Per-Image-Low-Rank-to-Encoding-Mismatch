@@ -1,4 +1,4 @@
-# From Per-Image Low Rank to Encoding Mismatch
+# From Per-Image Low-Rank to Encoding Mismatch
 
 Code release for the ICML 2026 paper "From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers".
 
