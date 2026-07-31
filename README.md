@@ -15,7 +15,7 @@ Official implementation of the ICML 2026 paper:
 - **Paper:** [arXiv](https://arxiv.org/abs/2511.15572) · [OpenReview](https://openreview.net/forum?id=2Ud1nkQrVZ)
 - **Pretrained checkpoints and model card:** [Hugging Face](https://huggingface.co/Huiyuancs/Encoding_Mismatch)
 - **Poster:** [ICML 2026 poster](./icml_poster.pdf)
-- **Prepared analysis results:** [`Raw data`](./Raw%20data)
+- **Prepared analysis results:** [`Raw data`](./Raw%20data) · [Hugging Face dataset and Dataset Viewer](https://huggingface.co/datasets/Huiyuancs/Encoding_Mismatch_Analysis_Data)
 
 ## Overview
 
