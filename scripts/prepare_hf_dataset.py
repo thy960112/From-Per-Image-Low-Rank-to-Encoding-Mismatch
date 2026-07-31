@@ -332,8 +332,6 @@ def build_readme(
     yaml_lines.extend(
         [
             "pretty_name: Encoding Mismatch Analysis Data",
-            "task_categories:",
-            "- image-classification",
             "tags:",
             "- computer-vision",
             "- vision-transformer",
