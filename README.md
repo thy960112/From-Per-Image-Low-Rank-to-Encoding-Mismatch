@@ -292,4 +292,6 @@ The [ICML 2026 poster](./icml_poster.pdf) provides a compact visual summary of t
 
 ## License
 
-The Hugging Face model repository is marked as Apache-2.0. Please ensure that this GitHub repository contains the intended matching license file and that all third-party dependencies and datasets are used under their respective terms.
+This repository is licensed under the Apache License 2.0; see
+[`LICENSE`](./LICENSE). Third-party dependencies and datasets remain
+subject to their respective licenses and terms.
